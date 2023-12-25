@@ -1,5 +1,5 @@
-# Facial landmark and expression detection using MediaPipe
-This is a basic application to detect facial landmarks (eyes, nose, upper and lower lips) and detection of whether you are surprised or not. It also detects wwhen yo are talking or not. It uses webcam, so if you want to run it through some images or videos, you need modify it a little.
+# Facial feature and expression detection using MediaPipe
+This is a basic application to detect facial features (eyes, nose, upper and lower lips) and to determine whether you are surprised or not. Code also detects when you are talking or not. It uses webcam, so if you want to run it through some images or videos, you need modify it a little.
 
 I used the map for facial landmark detection which shows the 468 indices MediaPipe uses when creating a face mesh. If you need the indice numbers for right and left eyes, upper and lover lips, nose or mouth area, it is in the code.
 
